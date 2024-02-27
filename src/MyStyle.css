@@ -1,0 +1,12 @@
+.btnt{
+    background-color: rgb(21, 208, 146);
+    color: white;
+    border: 1rem;
+    padding: 10px,20px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+.btnt:hover{
+    background-color: rgb(37, 7, 3);
+    
+}
